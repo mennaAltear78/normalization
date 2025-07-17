@@ -14,4 +14,5 @@ This Python script demonstrates how to calculate **Discounted Cumulative Gain (D
 
 ##  Example Output
 
-<img width="755" height="401" alt="image" src="https://github.com/user-attachments/assets/c497a270-c93b-4fd8-93c7-21b3e3435475" />
+<img width="1112" height="392" alt="Screenshot 2025-07-17 22020" src="https://github.com/user-attachments/assets/8c9b02e5-f35b-4770-9c54-dbed12ddf4e6" />
+
